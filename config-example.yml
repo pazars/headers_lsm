@@ -1,0 +1,8 @@
+# lsm.lv
+sitemap: "https://www.lsm.lv/sitemap.xml"
+lsm-text-path: "save/path/for/processed/text.txt"
+
+# Wikipedia
+wiki-src: "https://wikimedia.bringyour.com/lvwiki/20230901/lvwiki-20230901-pages-articles.xml.bz2"
+wiki-dump-dir: "path/to/downloaded/wiki-src"
+wiki-dump-text-path: "save/path/for/processed/wiki/dump.txt"
